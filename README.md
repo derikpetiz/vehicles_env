@@ -14,4 +14,4 @@ Este projeto é uma aplicação web desenvolvida em Python para análise explora
 - Streamlit
 
 ## 🔗 Aplicação no Render
-*(Link da aplicação no Render será inserido após a implantação)*
+Acesse o dashboard online: https://vehicles-env-8623.onrender.com/
