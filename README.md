@@ -1,11 +1,14 @@
-# Dashboard de Vendas de Veículos
+# Dashboard de Análise de Vendas de Veículos 🚗
 
-Este projeto é uma aplicação web desenvolvida em Python para análise exploratória de dados de anúncios de vendas de carros nos Estados Unidos.
+Esta é uma aplicação web interativa desenvolvida em Python e Streamlit para análise exploratória de dados de anúncios de vendas de carros nos Estados Unidos.
 
 ## 🚀 Funcionalidades
-- **Cabeçalho Principal**: Identificação clara da aplicação.
-- **Histograma Interativo**: Gerado ao clicar no botão "Criar histograma", exibindo a distribuição da quilometragem (`odometer`).
-- **Gráfico de Dispersão Interativo**: Exibido ao selecionar a caixa de seleção (checkbox), permitindo analisar a relação entre o preço (`price`) e a quilometragem (`odometer`).
+- **Visão Geral do Mercado (Métricas)**: Cards interativos exibindo o total de anúncios, preço médio, quilometragem média e ano médio dos veículos.
+- **Histograma de Quilometragem**: Distribuição interativa do odômetro dos veículos.
+- **Gráfico de Dispersão (Preço vs. Odômetro)**: Análise comparativa entre preço e quilometragem, colorida pela condição do veículo.
+- **Gráfico de Barras por Fabricante**: Visualização da quantidade e tipo de veículos agrupados por fabricante.
+- **Tabela de Dados Brutos**: Opção para consultar e explorar as primeiras 100 linhas do conjunto de dados.
+- **Controles Interativos**: Interface dinâmica com caixas de seleção (checkboxes) para personalizar a exibição dos gráficos.
 
 ## 🛠️ Tecnologias
 - Python 3
@@ -13,5 +16,5 @@ Este projeto é uma aplicação web desenvolvida em Python para análise explora
 - Plotly Express
 - Streamlit
 
-## 🔗 Aplicação no Render
-Acesse o dashboard online: https://vehicles-env-8623.onrender.com/
+## 🔗 Aplicação Online
+Acesse o dashboard publicado no Render: https://vehicles-env-8623.onrender.com/
