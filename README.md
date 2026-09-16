@@ -10,7 +10,7 @@ Esta é uma aplicação web interativa desenvolvida em Python e Streamlit para a
 - **Tabela de Dados Brutos**: Opção para consultar e explorar as primeiras 100 linhas do conjunto de dados.
 - **Controles Interativos**: Interface dinâmica com caixas de seleção (checkboxes) para personalizar a exibição dos gráficos.
 
---
+---
 
 ## 📊 Análise Visual & Principais Insights
 
@@ -35,7 +35,7 @@ Esta é uma aplicação web interativa desenvolvida em Python e Streamlit para a
 
 * **Insight Chave:** As categorias **SUV** e **Sedan** concentram a grande maioria do volume total de anúncios da plataforma. Esse comportamento demonstra uma clara preferência do público consumidor por veículos utilitários e de passeio familiar no mercado de seminovos.
 
---
+---
 
 ## 🛠️ Tecnologias
 - Python 3
@@ -43,7 +43,7 @@ Esta é uma aplicação web interativa desenvolvida em Python e Streamlit para a
 - Plotly Express
 - Streamlit
 
---
+---
 
 ## 🔗 Aplicação Online
 Acesse o dashboard publicado no Render: https://vehicles-env-8623.onrender.com/
