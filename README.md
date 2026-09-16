@@ -2,6 +2,8 @@
 
 Esta é uma aplicação web interativa desenvolvida em Python e Streamlit para análise exploratória de dados de anúncios de vendas de carros nos Estados Unidos.
 
+---
+
 ## 🚀 Funcionalidades
 - **Visão Geral do Mercado (Métricas)**: Cards interativos exibindo o total de anúncios, preço médio, quilometragem média e ano médio dos veículos.
 - **Histograma de Quilometragem**: Distribuição interativa do odômetro dos veículos.
