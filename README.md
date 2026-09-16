@@ -1,4 +1,4 @@
-# Dashboard de Análise de Vendas de Veículos 🚗
+# 🚗 Dashboard de Análise de Vendas de Veículos
 
 Esta é uma aplicação web interativa desenvolvida em Python e Streamlit para análise exploratória de dados de anúncios de vendas de carros nos Estados Unidos.
 
